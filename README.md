@@ -1,3 +1,5 @@
+# NOTE: WorkingTurboGPT is now dpercated because of the built-in reverse proxy. Please use it's successor [PenguinGPT](https://github.com/cicerorph/WorkingPenguinGPT/blob/main/extension.js). trying to use the import link provided will automatically download PenguinGPT. This is to 'fix' existing projects with WorkingTurboGPT that's imported by URL.
+
 # WorkingTurboGPT
 
 <img src="https://anonymous-cat1.github.io/WorkingTurboGPT/img/thumb.svg" width="300%" height="300"/>
